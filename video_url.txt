@@ -1,0 +1,5 @@
+Player URL:
+https://ukrunal33.github.io/player/?list=https://raw.githubusercontent.com/ukrunal33/5dc78f7e7fea7e8b/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/ukrunal33/5dc78f7e7fea7e8b/refs/heads/master/github_master.m3u8
